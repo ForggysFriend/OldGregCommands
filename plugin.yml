@@ -1,0 +1,7 @@
+name: OldGreggCommands
+main: com.FroggysFriend.Greg.Main
+version: 1.0
+commands:
+   givemeshit:
+      description: Gives the player lots of items.
+      usage: /<command>
